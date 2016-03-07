@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 글의 제목을 지칭한다.
+date:   2016-03-07 17:38:21
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
